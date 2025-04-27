@@ -1,10 +1,6 @@
 
 
 ```markdown
-# Stock Analysis Notebook
-
-A Jupyter Notebook for analyzing stock market data using Google Colab. This notebook processes historical stock data and provides visualizations/insights.
-
 ## Features
 
 - Interactive analysis in Google Colab
